@@ -1,6 +1,6 @@
 # scree
 
-DIY `og:image` with a simple command-line script.
+DIY `og:image` leveraging [puppeteer](https://github.com/puppeteer/puppeteer/).
 
 ## Install
 
