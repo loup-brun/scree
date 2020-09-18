@@ -5,7 +5,7 @@ DIY `og:image` with a simple command-line script.
 ## Install
 
 ```bash
-git clone https://github.com/loup-brun/scree
+git clone https://github.com/loup-brun/scree.git
 cd scree
 npm i # install local deps
 npm i -g # `scree` will be available globally from the command line
